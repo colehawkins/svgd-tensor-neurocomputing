@@ -6,7 +6,7 @@ We have since improved our method, and recommend that you use the faster Stochas
 
 ## Setup
 
-This code was run using Tensorflow=1.13/4 and Tensorflow-Probability=0.8. Those are the primary dependencies. Since Tensorflow-Probability 0.8 is no longer available on pypi setting up dependencies will be challenging. 
+This code was run using Tensorflow=1.13/4 and Tensorflow-Probability=0.8. Those are the primary dependencies. Since Tensorflow-Probability 0.8 is no longer available on pypi setting up dependencies will be challenging, but you can install from source. 
 
 ## Running the code
 
